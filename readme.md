@@ -35,4 +35,4 @@ Este projeto é um site simples para cadastro de participantes em uma rifa de um
 - Para personalizar, altere os textos e imagens conforme necessário.
 
 ---
-Desenvolvido para fins de
+Desenvolvido para fins de prática e aprendizado.
